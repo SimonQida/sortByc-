@@ -34,5 +34,4 @@ int main(){
         cout<<outrange[i]<<" ";
     }
     cout<<endl<<"``origin ax = 1 but ax:"<<ax<<endl<<"``origin bx = 2 but bx: "<<bx;
-
 }
